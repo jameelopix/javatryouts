@@ -1,6 +1,6 @@
 package com.jameel.javatryouts;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class SqlGeneratorTest {
 
